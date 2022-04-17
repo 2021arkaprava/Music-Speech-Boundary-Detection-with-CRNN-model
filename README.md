@@ -1,4 +1,4 @@
-# Audio-event-Detection-with-CRNN-model
+# Music-Speech-Boundary-Detection-with-CRNN-model
 Here our task was to separate boundaries between music and speech and detect when such event occurs or stops for a course project.
 
 
